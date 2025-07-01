@@ -1,0 +1,11 @@
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\obj\Debug\net9.0\LibraryClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\obj\Debug\net9.0\LibraryClassLibrary.AssemblyInfoInputs.cache
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\obj\Debug\net9.0\LibraryClassLibrary.AssemblyInfo.cs
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\obj\Debug\net9.0\LibraryClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\bin\Debug\net9.0\LibraryClassLibrary.deps.json
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\bin\Debug\net9.0\LibraryClassLibrary.dll
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\bin\Debug\net9.0\LibraryClassLibrary.pdb
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\obj\Debug\net9.0\LibraryClassLibrary.dll
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\obj\Debug\net9.0\refint\LibraryClassLibrary.dll
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\obj\Debug\net9.0\LibraryClassLibrary.pdb
+C:\Users\GRHol\OneDrive\Desktop\CSharpProjects\LibraryManagementSystem\LibraryClassLibrary\LibraryClassLibrary\obj\Debug\net9.0\ref\LibraryClassLibrary.dll
